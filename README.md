@@ -25,7 +25,9 @@ The requirements for this deliverable as well as screenshots of `codes`are liste
 2. The total drivers for each city type
 
 ![2](https://user-images.githubusercontent.com/76136277/106187493-b625dc80-6173-11eb-8ae2-35ec35417a67.PNG)
+
 3. The total amount of fares for each city type
+
 ![3](https://user-images.githubusercontent.com/76136277/106187528-c0e07180-6173-11eb-92b5-7a6b01b6049a.PNG)
 
 4. The average fare per ride for each city type
