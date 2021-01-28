@@ -71,10 +71,13 @@ City Type | Total Ride | Total Driver| Total Fare | Differences in ride-sharing 
 Urban | 1625 | 2405 | $39,854.88 | 1. Fare started around $1,800 in January, rose to about $2,450 in late Feb and early March, dropped in late-march to about $1,950, and by the end of April, it increased to $2,300. The fare is pretty consistent here. Also, it has the cheapest average fare per ride and driver ($24.53 & $16.57 respectively), but most profitable |
 Suburban | 625 | 490 | $19,356.33 | Fare started around $700 in January.The analysis was not profitable because fare wasn't consistent. It dropped in March and in mid-April  but went up to $1,400 by the end of April. Average fare per ride and drive is $30.97 and $39.50 respectively, but there wasn't much profit either.  |
 Rural | 125 | 78 | $4,327.93 | Fare started around $200 in January. The analysis shows fare increase and dropped by the end of April. Also, the most expensive in average fare per ride and driver($34.62 & $55.49 respectively), and still made lesser profit.|
+
 > PyBer DataFrame image
 ![6](https://user-images.githubusercontent.com/76136277/106187647-e53c4e00-6173-11eb-92a8-a78f5c2d4ef5.PNG)
+
 > Multiple-line chart of total fares for each city type
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/76136277/106188077-7e6b6480-6174-11eb-827e-2e27bc3ff02f.png)
+
 > PyBer Ride-Sharing Data (2019)
 ![Fig1](https://user-images.githubusercontent.com/76136277/106195504-3a7d5d00-617e-11eb-9298-2326410ed9f4.png)
 
