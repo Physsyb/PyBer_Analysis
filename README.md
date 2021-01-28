@@ -73,12 +73,15 @@ Suburban | 625 | 490 | $19,356.33 | Fare started around $700 in January.The anal
 Rural | 125 | 78 | $4,327.93 | Fare started around $200 in January. The analysis shows fare increase and dropped by the end of April. Also, the most expensive in average fare per ride and driver($34.62 & $55.49 respectively), and still made lesser profit.|
 
 > PyBer DataFrame image
+
 ![6](https://user-images.githubusercontent.com/76136277/106187647-e53c4e00-6173-11eb-92a8-a78f5c2d4ef5.PNG)
 
 > Multiple-line chart of total fares for each city type
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/76136277/106188077-7e6b6480-6174-11eb-827e-2e27bc3ff02f.png)
 
 > PyBer Ride-Sharing Data (2019)
+
 ![Fig1](https://user-images.githubusercontent.com/76136277/106195504-3a7d5d00-617e-11eb-9298-2326410ed9f4.png)
 
 ### 3) Summary
