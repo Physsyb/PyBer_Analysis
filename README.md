@@ -19,20 +19,33 @@ Below are the deliverables of the project
 
 The requirements for this deliverable as well as screenshots of `codes`are listed below;
 1. The total rides for each city type
+
 ![1](https://user-images.githubusercontent.com/76136277/106187444-a7d7c080-6173-11eb-90d2-15b17959f96e.PNG)
+
 2. The total drivers for each city type
+
 ![2](https://user-images.githubusercontent.com/76136277/106187493-b625dc80-6173-11eb-8ae2-35ec35417a67.PNG)
 3. The total amount of fares for each city type
 ![3](https://user-images.githubusercontent.com/76136277/106187528-c0e07180-6173-11eb-92b5-7a6b01b6049a.PNG)
+
 4. The average fare per ride for each city type
+
 ![4](https://user-images.githubusercontent.com/76136277/106187551-c8077f80-6173-11eb-804b-07cf86bc2a64.PNG)
+
 5. The average fare per driver for each city type
+
 ![5](https://user-images.githubusercontent.com/76136277/106187617-db1a4f80-6173-11eb-9ac4-04cfa2837b03.PNG)
+
 6. PyBer Summary DataFrame
+
 ![6](https://user-images.githubusercontent.com/76136277/106187647-e53c4e00-6173-11eb-92a8-a78f5c2d4ef5.PNG)
+
 7. Cleaned up DataFrame by deleting the `index` name
+
 ![7](https://user-images.githubusercontent.com/76136277/106187671-ea010200-6173-11eb-94a5-9c41dc29eb62.PNG)
+
 8. Formatting the Columns 
+
 ![8](https://user-images.githubusercontent.com/76136277/106187687-f08f7980-6173-11eb-9fb5-9e56e5e10a5f.PNG)
 
 ## Deliverable 2
