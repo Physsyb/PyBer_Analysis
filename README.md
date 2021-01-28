@@ -81,12 +81,14 @@ Rural | 125 | 78 | $4,327.93 | Fare started around $200 in January. The analysis
 ### 3) Summary
 > Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-1.  In the rural and suburban cities, there is room for growth and expansion. The CEO should consider hiring more drivers. For example, Newtonview, Taylorhaven in the rural city has 
-just one driver. Increasing the number of driver will lead to increase in the number of rides and more income.
+1.  In the rural and suburban cities, there is room for growth and expansion. The CEO should consider hiring more drivers. For example, Newtonview, Taylorhaven in the rural city has just one driver. Increasing the number of driver will lead to increase in the number of rides and more income.
+
 ![Fig7](https://user-images.githubusercontent.com/76136277/106202789-67cf0880-6188-11eb-853d-b52f50319916.png)
 
 2. The rural city has the lowest fare and financial gain. By hiring more drivers as mentioned above, the CEO should also consider reducing the average fare per driver and increase ride fares. This is because the workload on each driver is reduced (when we hire more), and more financial income for the company (from the reduced fare for drivers and increased ride fare).
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/76136277/106188077-7e6b6480-6174-11eb-827e-2e27bc3ff02f.png)
 
 3.  Rides in urban cities can be expanded since there is consistency and more profits are being made here.
+
 ![Fig5](https://user-images.githubusercontent.com/76136277/106196670-b88e3380-617f-11eb-95ff-f78c703e5eb2.png)
